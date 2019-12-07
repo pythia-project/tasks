@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 #
-# Pythia task to execute a Python code
+# Pythia task to execute a Python Input-Output task
 # Author: Sébastien Combéfis <sebastien@combefis.be>
 #
 # Copyright (C) 2019, Computer Science and IT in Education ASBL
