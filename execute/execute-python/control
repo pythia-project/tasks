@@ -1,1 +1,1 @@
-/task/scripts/execute.py
+pythia-execute --filename program.py --execute "/usr/bin/python3 /tmp/work/program.py"
