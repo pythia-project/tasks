@@ -1,0 +1,10 @@
+{
+  "environment": "php7",
+  "taskfs": "execute-io-php7.sfs",
+  "limits": {
+    "time": 60,
+    "memory": 32,
+    "disk": 50,
+    "output": 1024
+  }
+}

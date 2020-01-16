@@ -1,0 +1,1 @@
+/task/scripts/pythia-iot test --filename program.php --template /task/skeleton/program.php --execute "/usr/bin/php7.0 /tmp/work/program.php"
