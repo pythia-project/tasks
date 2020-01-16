@@ -1,0 +1,1 @@
+/task/scripts/pythia-iot test --filename program.sh --template /task/skeleton/program.sh --execute "/bin/bash /tmp/work/program.sh"
