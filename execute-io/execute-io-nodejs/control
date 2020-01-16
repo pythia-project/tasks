@@ -1,0 +1,1 @@
+/task/scripts/pythia-iot test --filename program.js --template /task/skeleton/program.js --execute "/usr/bin/nodejs /tmp/work/program.js"
