@@ -1,1 +1,1 @@
-/task/scripts/execute.py
+/task/scripts/pythia-iot test --filename program.py --template /task/skeleton/program.py --execute "/usr/bin/python3 /tmp/work/program.py"
