@@ -1,0 +1,1 @@
+/task/scripts/pythia-execute --filename program.js --execute "/usr/bin/nodejs /tmp/work/program.js"
