@@ -1,0 +1,1 @@
+/task/scripts/pythia-iot test --filename Program.java --template /task/skeleton/Program.java --compile "/usr/lib/jvm/java-8-openjdk-i386/bin/javac /tmp/work/Program.java" --execute "/usr/lib/jvm/java-8-openjdk-i386/bin/java -cp /tmp/work Program"
