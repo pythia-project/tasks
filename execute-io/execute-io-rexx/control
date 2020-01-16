@@ -1,0 +1,1 @@
+/task/scripts/pythia-iot test --filename program.rexx --template /task/skeleton/program.rexx --execute "/usr/bin/rexx /tmp/work/program.rexx"
