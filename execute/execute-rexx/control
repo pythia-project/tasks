@@ -1,0 +1,1 @@
+/task/scripts/pythia-execute --filename program.rexx --execute "/usr/bin/rexx /tmp/work/program.rexx"
