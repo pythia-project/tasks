@@ -1,0 +1,1 @@
+/task/scripts/pythia-execute --filename program.rs --compile "rustc -C linker=gcc -o /tmp/work/program /tmp/work/program.rs" --execute "/tmp/work/program"
