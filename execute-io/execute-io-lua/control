@@ -1,0 +1,1 @@
+/task/scripts/pythia-iot test --filename program.lua --template /task/skeleton/program.lua --execute "/usr/bin/lua5.3 /tmp/work/program.lua"
