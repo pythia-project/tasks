@@ -1,0 +1,1 @@
+/task/scripts/pythia-iot test --filename program.alg --template /task/skeleton/program.alg --execute "a68g /tmp/work/program.alg"

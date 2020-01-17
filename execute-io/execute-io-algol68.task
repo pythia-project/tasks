@@ -1,0 +1,10 @@
+{
+  "environment": "algol68",
+  "taskfs": "execute-io-algol68.sfs",
+  "limits": {
+    "time": 60,
+    "memory": 128,
+    "disk": 50,
+    "output": 1024
+  }
+}
