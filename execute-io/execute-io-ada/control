@@ -1,0 +1,1 @@
+/task/scripts/pythia-iot test --filename program.adb --template /task/skeleton/program.adb --compile "gnatmake /tmp/work/program.adb -D /tmp/work -o /tmp/work/program" --execute "/tmp/work/program"
