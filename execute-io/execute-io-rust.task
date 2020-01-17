@@ -1,0 +1,10 @@
+{
+  "environment": "rust",
+  "taskfs": "execute-io-rust.sfs",
+  "limits": {
+    "time": 60,
+    "memory": 128,
+    "disk": 50,
+    "output": 1024
+  }
+}
