@@ -1,0 +1,1 @@
+/task/scripts/pythia-execute --filename program.pl --execute "swipl /tmp/work/program.pl"
