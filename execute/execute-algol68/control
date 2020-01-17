@@ -1,0 +1,1 @@
+/task/scripts/pythia-execute --filename program.alg --execute "a68g /tmp/work/program.alg"
