@@ -1,0 +1,1 @@
+/task/scripts/pythia-execute --filename program.go --compile "go build -o /tmp/work/program /tmp/work/program.go" --execute "/tmp/work/program"
