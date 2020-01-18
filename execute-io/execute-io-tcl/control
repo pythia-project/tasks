@@ -1,0 +1,1 @@
+/task/scripts/pythia-iot test --filename program.tcl --template /task/skeleton/program.tcl --execute "/usr/bin/tclsh8.6 /tmp/work/program.tcl"
